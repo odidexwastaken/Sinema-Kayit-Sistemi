@@ -10,7 +10,7 @@
 
 3. Bilet Oluşturma
    - Kullanıcı bir müşteri ve bir filmi numaralarına göre seçerek bilet oluşturur.
-   - biletler[müşteri][film] dizisinde 1 değeri ile saklanır.
+   - biletler[müşteri][film] dizisinde saklanır.
 
 4. Listeleme İşlemleri
    - Film, müşteri ve bilet verileri ayrı ayrı listelenebilir.
